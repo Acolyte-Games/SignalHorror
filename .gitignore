@@ -1,12 +1,12 @@
 #################################
 # Unreal Engine Generated Files #
 #################################
-SignalHorror/[Bb]uild
-SignalHorror/[Bb]uilds
-SignalHorror/Binaries
-SignalHorror/DerivedDataCache
-SignalHorror/Intermediate
-SignalHorror/Saved
+/[Bb]uild
+/[Bb]uilds
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
 
 #################################
 # Visual Studio Generated Files #
