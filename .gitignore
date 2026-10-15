@@ -1,12 +1,12 @@
 #################################
 # Unreal Engine Generated Files #
 #################################
-/[Bb]uild
-/[Bb]uilds
-/Binaries
-/DerivedDataCache
-/Intermediate
-/Saved
+SignalHorror/[Bb]uild
+SignalHorror/[Bb]uilds
+SignalHorror/Binaries
+SignalHorror/DerivedDataCache
+SignalHorror/Intermediate
+SignalHorror/Saved
 
 #################################
 # Visual Studio Generated Files #
@@ -35,4 +35,3 @@
 # Miscellaneous Generated Files #
 #################################
 # ADD AS NEED BE
-SignalHorror/Intermediate/CachedAssetRegistry/CachedAssetRegistry_0_B8991B83431B1662DBE9CDB22DAD7E12.bin
